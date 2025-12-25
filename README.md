@@ -123,18 +123,6 @@ Say:
 
 ---
 
-## 📂 Project Structure
-
-```
-voice-ai-assistant/
-│
-├── main.py        # Entry point (Listen → Think → Speak loop)
-├── README.md      # Project documentation
-└── requirements.txt (optional)
-```
-
----
-
 ## 🚀 Future Improvements
 
 * 🔁 Streaming responses (real-time speech output)
